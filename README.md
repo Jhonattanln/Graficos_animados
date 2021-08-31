@@ -1,6 +1,7 @@
 # Graficos_animados
- Script para a criação de gráficos animados
- 
+##Script para a criação de gráficos animados
+
+O exemplo foi criado com dados cos indicadores fundamentalistas das empresas de saneamento brasileiras
  
 
 
